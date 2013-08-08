@@ -1,7 +1,3 @@
 [submodule "php/themes/feedly"]
 	path = php/themes/feedly
-	url = https://github.com/levito/tt-rss-feedly-theme.git
-
-[submodule "php/plugins/videoframes"]
-	path = php/plugins/videoframes
-	url = https://github.com/tribut/ttrss-videoframes.git
+	url = git://github.com/levito/tt-rss-feedly-theme.git
